@@ -15,7 +15,7 @@ combos {
 	key-positions = <37 50>;
 		bindings = <&caps_word>;
 	};
-}
+};
 / {
 	keymap {
 		compatible = "zmk,keymap";
