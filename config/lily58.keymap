@@ -68,7 +68,7 @@ keymap {
 &trans    &trans   &trans   &trans   &trans    &trans                     &trans      &trans    &trans          &trans    &trans    &trans
 &none     &none    &none    &kp UP   &kp PG_UP &none                      &kp CARET   &kp AMPS  &kp KP_MULTIPLY &kp LPAR  &kp RPAR  &kp PIPE
 &trans    &kp HOME &kp LEFT &kp DOWN &kp RIGHT &kp END                    &kp RPAR    &kp UNDER &kp MINUS       &kp EQUAL &kp PLUS  &kp BSLH
-&trans    &none    &none    &none    &PG_DOWN  &none   &trans   &trans    &kp GRAVE   &kp LBKT  &kp RBKT        &kp LBRC  &kp RBRC  &trans
+&trans    &none    &none    &none    &kp PG_DN &none   &trans   &trans    &kp GRAVE   &kp LBKT  &kp RBKT        &kp LBRC  &kp RBRC  &trans
                             &trans   &trans    &trans  &trans   &trans    &trans      &trans    &trans
 			>;
 
