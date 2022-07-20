@@ -13,9 +13,14 @@
 combos {
 	compatible = "zmk,combos";
 	combo_caps {
-		timeout-ms = <30>;
-	key-positions = <0 1>;
+		timeout-ms = <50>;
+	key-positions = <36 49>;
 		bindings = <&caps_word>;
+	};
+	combo_enter {
+		timeout-ms = <50>;
+	key-positions = <53 54>;
+		bindings = <&kp RET>;
 	};
 };
 
