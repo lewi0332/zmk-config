@@ -13,7 +13,7 @@
 combos {
 	combo_caps {
 		timeout-ms = <30>;
-	key-positions = <37 50>;
+	key-positions = <10 19>;
 		bindings = <&caps_word>;
 	};
 };
